@@ -1,9 +1,9 @@
+
 Tymon Gorzynski 102093
 WSB
-PHP - jezyki programowania
-Projekt strony Kina CinemaCity
-Zbieżność nazwy przypadkowa...
-Zbieżność nazw przypadkowa...
+PHP 
+
+
 DOKUMENTACJA:
 ---------------------------------------------------------------
 Strona zawiera takie funkcjonalnosci jak
